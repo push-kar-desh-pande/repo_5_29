@@ -1,0 +1,133 @@
+ARTICLE SUMMARY FOR URL: https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca
+DATE : 05_29_2020
+
+HEADER 1:
+Share the Word
+
+HEADER 2:
+Tomas Pueyo
+
+SUMMARY OF TEXT:
+Do something today?
+The only way to prevent this is social distancing today.
+Today.That means keeping as many people home as possible, starting now.
+The total number of cases grew exponentially until China contained it.
+There are so many cases in South Korea, Italy and Iran that it’s hard to see the rest of the countries, but let’s zoom in on that corner at the bottom right.
+If you want to understand what will happen, or how to prevent it, you need to look at the cases that have already gone through this: China, Eastern countries with SARS experience, and Italy.
+This is one of the most important charts.
+It shows in orange bars the daily official number of cases in the Hubei province: How many people were diagnosed that day.
+The grey bars show the true daily coronavirus cases.
+Crucially, these true cases weren’t known at the time.
+On January 21st, the number of new diagnosed cases (orange) is exploding: there are around 100 new cases.
+In reality, there were 1,500 new cases that day, growing exponentially.
+What they knew was that suddenly there were 100 new cases of this new illness.
+Two days later, authorities shut down Wuhan.
+At that point, the number of diagnosed daily new cases was ~400.
+Note that number: they made a decision to close the city with just 400 new cases in a day.
+In reality, there were 2,500 new cases that day, but they didn’t know that.
+True cases were exploding.
+As soon as Wuhan shuts down, cases slow down.
+On Jan 24th, when another 15 cities shut down, the number of true cases (again, grey) grinds to a halt.
+Two days later, the maximum number of true cases was reached, and it has gone down ever since.
+Note that the orange (official) cases were still growing exponentially: For 12 more days, it looked like this thing was still exploding.
+It’s just that the cases were getting stronger symptoms and going to the doctor more, and the system to identify them was stronger.
+This concept of official and true cases is important.
+Every flat line is a Chinese region with coronavirus cases.
+South Korea cases have exploded, but have you wondered why Japan, Taiwan, Singapore, Thailand or Hong Kong haven’t?
+The coronavirus was contained for the first 30 cases.
+Their containment efforts show, however: Italy has already passed it in numbers of cases, and Iran will pass it tomorrow (3/10/2020).
+You’ve already seen the growth in Western countries, and how bad forecasts of just one week look like.
+Let’s look at a few cases, such as Washington State, the San Francisco Bay Area, Paris and Madrid.
+Washington State is the US’s Wuhan.The number of cases there is growing exponentially.
+The death rate was through the roof.
+At some point, the state had 3 cases and one death.
+How could the death rate be 33%?
+It’s not like there were only 3 cases.
+This is a bit like the orange and grey bars in China: Here they only knew about the orange bars (official cases) and they looked good: just 3.
+But in reality, there were hundreds, maybe thousands of true cases.
+This is an issue: You only know the official cases, not the true ones.
+But you need to know the true ones.
+How can you estimate the true ones?
+First, through deaths.
+If you have deaths in your region, you can use that to guess the number of true current cases.
+Then, you know the mortality rate.
+That means that, around 2/12, there were already around ~100 cases in the area (of which only one ended up in death 17.3 days later).
+Now, use the average doubling time for the coronavirus (time it takes to double cases, on average).
+That means that, in the 17 days it took this person to die, the cases had to multiply by ~8 (=2^(17/6)).
+That means that, if you are not diagnosing all cases, one death today means 800 true cases today.
+Washington state has today 22 deaths.
+With that quick calculation, you get ~16,000 true coronavirus cases today.
+As many as the official cases in Italy and Iran combined.
+So if we consider those 19 deaths as one, the total deaths in the state is four.
+Updating the model with that number, we still get ~3,000 cases today.
+The conclusion is that there are likely ~1,100 cases in Washington state right now.
+None of these approaches are perfect, but they all point to the same message: We don’t know the number of true cases, but it’s much higher than the official one.
+That made it hard to know how many true cases there were.
+Officially, there were 86 cases.
+Turkey, with no cases of coronavirus, had 10 times the testing per inhabitant than the US.
+Here, you can just use a share of official cases to true cases.
+How to decide which one?
+For the Bay Area, they were testing everybody who had traveled or was in contact with a traveler, which means that they knew most of the travel-related cases, but none of the community spread cases.
+By having a sense of community spread vs. travel spread, you can know how many true cases there are.
+By the time they had 86 cases, the % of them from community spread was 86% (86 and 86% are a coincidence).
+With that number, you can calculate the number of true cases.
+If the Bay Area has 86 cases today, it is likely that the true number is ~600.
+France claims 1,400 cases today and 30 deaths.
+Using the two methods above, you can have a range of cases: between 24,000 and 140,000.
+The true number of coronavirus cases in France today is likely to be between 24,000 and 140,000.
+Let me repeat that: the number of true cases in France is likely to be between one and two orders or magnitude higher than it is officially reported.
+If you stack up the orange bars until 1/22, you get 444 cases.
+They add up to ~12,000 cases.
+So when Wuhan thought it had 444 cases, it had 27 times more.
+If France thinks it has 1,400 cases, it might well have tens of thousands
+With ~30 cases inside the city, the true number of cases is likely to be in the hundreds, maybe thousands.
+With 300 cases in the Ile-de-France region, the total cases in the region might already exceed tens of thousands.
+Spain has very similar numbers as France (1,200 cases vs. 1,400, and both have 30 deaths).
+That means the same rules are valid: Spain has probably upwards of 20k true cases already.
+In the Comunidad de Madrid region, with 600 official cases and 17 deaths, the true number of cases is likely between 10,000 and 60,000.
+If you read these data and tell yourself: “Impossible, this can’t be true”, just think this: With this number of cases, Wuhan was already in lockdown.
+With the number of cases we see today in countries like the US, Spain, France, Iran, Germany, Japan, Netherlands, Denmark, Sweden or Switzerland, Wuhan was already in lockdown.
+So the coronavirus is already here.
+The first one is likely to be an underestimate, because lots of open cases can still end up in death.
+Hubei’s fatality rate will probably converge towards 4.8%.
+South Korea is the most interesting example, because these 2 numbers are completely disconnected: deaths / total cases is only 0.6%, but deaths / closed cases is a whopping 48%.
+First, they’re testing everybody (with so many open cases, the death rate seems low), and leaving the cases open for longer (so they close cases quickly when the patient is dead).
+What is relevant is that deaths/cases has hovered around 0.5% since the beginning, suggesting it will stay there, likely heavily influenced by the healthcare system and crisis management.
+The last relevant example is the Diamond Princess cruise: with 706 cases, 6 deaths and 100 recoveries, the fatality rate will be between 1% and 6.5%.
+Acting fast also drastically reduces the cases, making this even more of a no-brainer.
+Countries that act fast reduce the number of deaths at least by 10x.
+Around 20% of cases require hospitalization, 5% of cases require the Intensive Care Unit (ICU), and around 2.5% require very intensive help, with items such as ventilators or ECMO (extra-corporeal oxygenation).
+And that’s just with 100,000 cases.
+If a lot of cases appear at once, there will be masks for only 2 weeks.
+That really means, which one lives and which one dies.
+The best one is Taiwan, which is extremely connected with China and yet still has as of today fewer than 50 cases.
+If we reduce the infections as much as possible, our healthcare system will be able to handle cases much better, driving the fatality rate down.
+The more we postpone cases, the better the healthcare system can function, the lower the mortality rate, and the higher the share of the population that will be vaccinated before it gets infected.
+If you go back to the Wuhan graph, you will remember that as soon as there was a lockdown, cases went down.
+On average, taking measures 20 days earlier halved the death rate.
+However, it will take one to two weeks to see.
+Remember the Wuhan graph: there was a delay of 12 days between the moment when the lockdown was announced and the moment when official cases (orange) started going down.
+With this level of cases, the only options politicians have in front of them are containment, mitigation or suppression.
+Containment is making sure all the cases are identified, controlled, and isolated.
+The recent US announcement that most travel from Europe was banned is a containment measure for a country that has, as of today, 3 times the cases that Hubei had when it shut down, growing exponentially.
+The bubble sizes show the number of daily cases.
+The top line shows the cases if nothing is done.
+Once there are hundreds or thousands of cases growing in the population, preventing more from coming, tracking the existing ones and isolating their contacts isn’t enough anymore.
+It requires heavy social distancing.
+The earlier you impose heavy measures, the less time you need to keep them, the easier it is to identify brewing cases, and the fewer people get infected.
+With thousands of official cases — and tens of thousands of true ones — this is what countries like the US, the UK, Germany, Netherlands or Switzerland need to do.
+It enables you to assess the likely number of cases in your area, the probability that your employees are already infected, how that evolves over time, and how that should tell you whether to remain open.
+It tells us things like:
+This theoretical model shows different communities: one doesn’t take social distancing measures, one takes them on Day n of an outbreak, the other one on Day n+1.
+All the numbers are completely fictitious (I chose them to resemble what happened in Hubei, with ~6k daily new cases at the worst).
+You can see that the one-day delay peaks later and higher, but then daily cases converge to zero.
+But what about cumulative cases?
+In this theoretical model that resembles loosely Hubei, waiting one more day creates 40% more cases!
+So, maybe, if the Hubei authorities had declared the lockdown on 1/22 instead of 1/23, they might have reduced the number of cases by a staggering 20k.
+And remember, these are just cases.
+So a one-day difference in social distancing measures can end exploding the number of deaths in your community by multiplying more cases and higher fatality rate.
+Every day counts.
+When you’re delaying by a single day a decision, you’re not contributing to a few cases maybe.
+There are probably hundreds or thousands of cases in your community already.
+Every day that there isn’t social distancing, these cases grow exponentially.
+EuropeanFrenchSpanishItalianGerman (alternative version)Dutch (alternative version)Portuguese (and alternative version and another one) CatalanNorwegianFinnishSwedishEstonianLithuanianPolish (and alternative version)CzechSlovakianHungarianRomanian (partial translation)SerbianAlbanianSlovenianBulgarian (alternative version)MacedonianGreekTurkishRussianUkrainianGeorgian
